@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AustinLieandro_NavigationdanAPI</string>
+    <string name="searchbar_hint">Mau Cari Siapa?</string>
+    <string name="detail_username">Username</string>
+    <string name="detail_name">Name</string>
+    <string name="item_person">Item</string>
+    <string name="detail_followers">Followers</string>
+    <string name="detail_following">Following</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="menu_1">Favorite User</string>
+    <string name="menu_2">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

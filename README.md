@@ -8,10 +8,10 @@ The GitHubUser App is a simple application that allows users to search for GitHu
   - Favorite Users: Users can save their favorite users to a local database and access them at any time.
   - Database Management: The application uses Room Database to store and manage the list of favorite users
   - Dark Theme: The application can remember user want app dark theme or light theme
-  - 
+    
 ## Preview GithubUser
 <p>
-  <img src="https://imgur.com/cVqoSin.png" width="30%"/>
-  <img src="https://imgur.com/4DgvLdY.png" width="30%"/>
-  <img src="https://imgur.com/sG8odeL.png" width="30%"/>
+  <img src="https://imgur.com/eygDSwQ.png" width="30%"/>
+  <img src="https://imgur.com/ZPhcI2c.png" width="30%"/>
+  <img src="https://imgur.com/oSeDclx.png" width="30%"/>
 </p>
